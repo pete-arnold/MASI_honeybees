@@ -1,0 +1,12 @@
+{
+    "name": "BH1745",
+    "keywords": "BH1745, light, lux, ambient, sensor",
+    "description": "An easy to use library for reading light values from the BH1745 light sensor",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/sunfounder/arduino-lib-bh1745"
+    },
+    "frameworks": "arduino",
+    "platforms": "espressif8266, espressif32, ststm32",
+    "version": "1.0.0"
+}

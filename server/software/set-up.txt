@@ -1,0 +1,14 @@
+MASI Honeybees
+==============
+
+Datalogging and Analysis Server
+-------------------------------
+
+Server set-up
+~~~~~~~~~~~~~
+
+Install Mosquitto MQTT using aptitude/apt-get/apt.
+Install Prometheus likewise.
+Install mqtt2prometheus exporter from hikhvar
+Https://github.com/hikhvar/mqtt2prometheus
+

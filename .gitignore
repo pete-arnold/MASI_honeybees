@@ -1,3 +1,7 @@
+# Secrets file.
+secrets.h
+
+# Default C template.
 # Prerequisites
 *.d
 
